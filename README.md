@@ -15,4 +15,5 @@ the data. The characteristics which are calculated and printed are:
 - median
 - mean
 - standard deviation
+
 The results are printed with two decimal accuracy.
